@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <i>Building things for the web, games, and iOS.</i>
+  <i>a guy who loves tech</i>
 </p>
 
 ---
