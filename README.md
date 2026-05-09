@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://mint1.soon.it">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=600&height=80&lines=%3E_++ssh+guest@mint1.soon.it;%3E_++Access+Granted.+Welcome.;%3E_++Click+here+to+enter+the+matrix..." alt="Terminal typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=2000&color=34D399&center=true&vCenter=true&width=600&height=50&lines=Click+here+to+visit+my+website;to+know+more+about+me" alt="Terminal typing effect" />
 </a>
 
 <br>
