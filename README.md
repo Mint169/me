@@ -27,8 +27,7 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mint1o&show_icons=true&theme=radical&bg_color=050505&text_color=ffffff&title_color=34D399&icon_color=10B981&border_color=10B981&hide_border=false" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mint1o&layout=compact&theme=radical&bg_color=050505&text_color=ffffff&title_color=34D399&icon_color=10B981&border_color=10B981&hide_border=false" height="180" alt="Top Languages" />
+
 
 </div>
 
